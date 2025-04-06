@@ -75,7 +75,7 @@
 }
 
 .xbox .face {
-    background: url(Dpad.png);
+    background: url(dpad.png);
     position: absolute;
     opacity: 0;
 }
