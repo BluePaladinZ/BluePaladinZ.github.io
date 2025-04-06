@@ -1,6 +1,6 @@
 /* BEGIN Xbox One Controller Styling */
 .controller.xbox {
-    background: url(base.png) no-repeat center;
+    background: url(https://imgur.com/a/l1mYvmV.png) no-repeat center;
     height: 630px;
     width: 750px;
     /* Uncomment below to center if using absolute positioning */
@@ -32,7 +32,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumper.png);
+    background: url(https://imgur.com/a/l1mYvmV.png);
     opacity: 0;
 }
 
@@ -61,7 +61,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick.png);
+    background: url(https://imgur.com/a/l1mYvmV.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -92,7 +92,7 @@
 
 /* Face buttons (A/B/X/Y, etc.) */
 .xbox .face {
-    background: url(dpad.png);
+    background: url(https://imgur.com/a/l1mYvmV.png);
     position: absolute;
     opacity: 0;
 }
